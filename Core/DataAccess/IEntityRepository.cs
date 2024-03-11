@@ -1,8 +1,7 @@
-﻿using Entities.Abstract;
-using Entities.Concrete;
+﻿using Core.Entities;
 using System.Linq.Expressions;
 
-namespace DataAccess.Abstract;
+namespace Core.DataAccess;
 
 // generic constraint
 // IEntity veya IEntity İmplementasyonlarını alabilir.
